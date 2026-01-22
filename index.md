@@ -7,4 +7,4 @@ title: Mara
 
 ## Posts
 
-- [Building AI With Intention](/_posts/2026-01-21-building-ai-with-intention)
+- [Building AI With Intention](/_posts/2026-01-21-building-ai-with-intention.md)
