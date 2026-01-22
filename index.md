@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Mara
 ---
 
 # Hi, I’m Mara 👋
